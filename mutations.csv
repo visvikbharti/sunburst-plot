@@ -1,0 +1,11 @@
+category,subcategory,count,description
+I. Transcriptional mutations,5' UTR,6,Mutations in the 5' untranslated region
+I. Transcriptional mutations,Promoter regulatory elements,9,Mutations in promoter regulatory elements
+II. RNA processing,RNA cleavage-Poly A signal,12,Mutations affecting RNA cleavage and polyadenylation
+II. RNA processing,Splice junction,21,Mutations at splice junctions
+II. RNA processing,Consensus splice sites,19,Mutations at consensus splice sites
+II. RNA processing,Cryptic splice sites,17,Mutations creating or affecting cryptic splice sites
+II. RNA processing,Others in 3' UTR,3,Other mutations in the 3' untranslated region
+III. RNA translation,Initiation codon,13,Mutations affecting the initiation codon
+III. RNA translation,Nonsense codons,75,Mutations creating premature stop codons
+III. RNA translation,Frameshift,1,Mutations causing frameshifts in translation
